@@ -61,10 +61,10 @@ Výkon veřejné správy a samosprávy je řízen daty, včetně politik, které
 
 ## Chybějící kompetence úředníků a jejich systematický rozvoj je překážkou pro úspěšnou digitální transformaci
 
-_`TODO`_
+_Digitální transformace vyžaduje od úředníků nové způsoby práce a know-how. Státní správa však jejich kompetence nedostatečně rozvíjí._
 
 O co usilujeme:
-`TODO`
+Státní správa své zaměstnance systematicky vzdělává v oblastech relevantních pro digitální transformaci, rozvíjí jejich znalosti a podporuje sdílení know-how. Proaktivně zajišťuje kvalitní pracovní prostředí, reaguje pružně na potřeby svých zaměstnanců a je otevřena zájemcům o zaměstnání mimo veřejnou správu.
 
 ## Prostředí veřejné správy nepodporuje inovace a změny
 
