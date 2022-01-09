@@ -1,4 +1,4 @@
-## Úspěšná digitální transformace vyžaduje politickou prioritizaci
+## Chybějící politická prioritizace
 
 _Stát nelze efektivně a rychle digitalizovat, pokud se nejedná o politickou prioritu na úrovni předsedy vlády, místopředsedy vlády či alespoň prioritního ministerstva._
 
@@ -6,7 +6,7 @@ O co usilujeme:
 V novém volební období bude digitální transformace mezi top prioritami vlády, odpovědnost za ni převezme přímo premiér nebo místopředseda vlády. Bude patřit mezi prioritní oblasti v programovém prohlášení a vláda bude podnikat aktivní kroky na exekutivní i legislativní úrovni. Parlament bude digitalizační legislativu nadále podporovat a aktivně prosazovat potřebné úpravy.
 
 
-## Překážkou pro úspěšnou digitální transformaci je přetrvávající rezortismus a nedostatky v koordinaci a řízení
+## Přetrvávající rezortismus a nedostatky v koordinaci a řízení
 
 _Přetrvávající resortismus se projevuje se zejména nekoordinovanými a nekoncepčními postupy v potřebě digitální transformace, nedostatečnou provázaností politik mezi jednotlivými rezorty, často také v nízké úrovni vzájemného sdílení dat a informací mezi jednotlivými resorty._
 
@@ -15,7 +15,7 @@ Centrální autorita se stane tahounem digitální transformace, bude mít silno
 Stane se hlavním koordinačním orgánem, který bude mít na starosti vizi, strategii, definici základních standardů a postupů. Při decentralizované realizaci bude klíčovým partnerem úřadů - bude poskytovat své know–how a aktivně podporovat sdílení zkušeností napříč státní správou.
 
 
-## Existující legislativa je zastaralá, komplikovaná a stojí v cestě úspěšné digitální transformaci
+## Zastaralá a komplikovaná legislativa
 
 _Současná legislativa komplikuje digitální transformaci, a to jak z hlediska norem upravujících legislativní rámec digitální transformace, tak legislativy upravující výkon agend._
 
@@ -25,7 +25,7 @@ Nově vznikající legislativa je vždy ve shodě se Zásadami digitálně pří
 
 
 
-## Absence kvalitní personální politiky neumožňuje úspěšnou digitální transformaci
+## Nekvalitní personální politika
 
 _Státní správě chybí dostatek kvalitních expertů (nejen pro oblast IT) pro podporu digitální transformací státu. Práce ve státní správě není pro experty atraktivní finančním ohodnocením ani pracovní kulturou a státní správa není k potenciálním kvalitním uchazečům dostatečně vstřícná._
 
@@ -44,7 +44,7 @@ Státní správa směřuje k servisně orientované architektuře a podporuje ot
 
 
 
-## Úspěšná digitální transformace se neobejde bez adekvátního financování na ICT infrastrukturu
+## Nadekvátní financování ICT infrastruktury
 
 _Stát podceňuje financování IT infrastruktury a dlouhodobě na ni nevyčleňuje dostatečné množství zdrojů a financí. Jako každá transformace, i ta digitální, vyžaduje investice a strategickou finanční podporu, která je nejen promítnuta do sestavování rozpočtu ČR, ale i do tvorby dotačních programů a dalších rozvojových fondů._
 
@@ -52,28 +52,28 @@ O co usilujeme:
 Veřejná správa pravidelně investuje do nových digitálních technologií, do kritické a další ICT infrastruktury státu. Vedle investicí do nových technologií veřejná správa investuje do výzkumu, vzdělávání a robustní analýzy aktuálních potřeb. Následující období je příležitostí pro reformu veřejných rozpočtů a zajištění tak nutných zdrojů, které digitální transformaci umožní realizovat. Stát promítá potřeby pro úspěšnou digitální transformaci do veřejných rozpočtů, dotačních programů, rozvojových fondů a další participativní a otevřené mechanismy rozvoje.
 
 
-## Digitální transformace není úspěšná díky nedostupnosti nebo nedostatečnému využití dat
+## Nedostupnost nebo nedostatečné využití dat
 
 _Politiky jsou častěji vytvářeny na základě pravidel politického PR a bez doložených faktů a poznání. Vládnutí je i nadále netransparentní a neadresné. K automatizaci dochází jen velmi pomalu a zpravidla úspěšně jen tam, kde je k technologiím blíže z podstaty typu agendy dané instituce, ve které se tak děje._
 
 O co usilujeme:
 Výkon veřejné správy a samosprávy je řízen daty, včetně politik, které z popisu výkonu funkce navrhují a plní. „Úřady“ se zabývají analýzou a správou dat s důrazem na jejich otevírání a kvalitu. Stát vytváří takové byrokratické prostředí, které vyžaduje kvalitní data a kvalitní datovou analýzu a odpovídající infrastrukturu pro správu a výměnu dat mezi stakeholdery včetně businessu a občanské společnosti. Občan má státem garantovaný přístup k datům, která jsou důkazní páteří pro státem navrhované politiky. Stát a jeho úředníci dbají na kvalitu dat.
 
-## Chybějící kompetence úředníků a jejich systematický rozvoj je překážkou pro úspěšnou digitální transformaci
+## Chybějící kompetence úředníků a jejich systematický rozvoj
 
 _Digitální transformace vyžaduje od úředníků nové způsoby práce a know-how. Státní správa však jejich kompetence nedostatečně rozvíjí._
 
 O co usilujeme:
 Státní správa své zaměstnance systematicky vzdělává v oblastech relevantních pro digitální transformaci, rozvíjí jejich znalosti a podporuje sdílení know-how. Proaktivně zajišťuje kvalitní pracovní prostředí, reaguje pružně na potřeby svých zaměstnanců a je otevřena zájemcům o zaměstnání mimo veřejnou správu.
 
-## Prostředí veřejné správy nepodporuje inovace a změny
+## Zastaralá pracovní kultura, která nepodporuje inovace a změny
 
 _Prostředí veřejné správy je velmi statické, odolné změnám a úředníci nejsou systematicky podporováni pro rozvoj a inovace._
 
 O co usilujeme: Státní správa systematicky pěstuje pracovní kulturu a vytváří bezpečný prostor k rozvoji a inovacím.
 Podporuje výměnu zkušeností a dobré praxe mezi úředníky, motivuje úředníky v kontinuálním vylepšování služeb státu. Úředníci se pravidelně vzdělávají a získávají zkušenosti i mimo veřejnou správou.
 
-## Nedostatečná nebo systematická komunikace a osvěta veřejné správy brání úspěšné digitální transformaci
+## Nedostatečná nebo systematická komunikace a osvěta
 
 _Státní správa nedostatečně komunikuje svůj pokrok, úspěchy a výstupy digitální transformace pro občany. Často jsou sdíleny jen skrze politické reprezentanty, hlavně v průběhu volebního období. Taková komunikace je nedůvěryhodná nebo nesrozumitelná, k mnoha občanům se vůbec nedostane._
 
