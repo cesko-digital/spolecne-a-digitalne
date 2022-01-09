@@ -73,7 +73,7 @@ _Prostředí veřejné správy je velmi statické, odolné změnám a úředníc
 O co usilujeme: Státní správa systematicky pěstuje pracovní kulturu a vytváří bezpečný prostor k rozvoji a inovacím.
 Podporuje výměnu zkušeností a dobré praxe mezi úředníky, motivuje úředníky v kontinuálním vylepšování služeb státu. Úředníci se pravidelně vzdělávají a získávají zkušenosti i mimo veřejnou správou.
 
-## Nedostatečná nebo systematická komunikace a osvěta
+## Nedostatečně systematická komunikace a osvěta
 
 _Státní správa nedostatečně komunikuje svůj pokrok, úspěchy a výstupy digitální transformace pro občany. Často jsou sdíleny jen skrze politické reprezentanty, hlavně v průběhu volebního období. Taková komunikace je nedůvěryhodná nebo nesrozumitelná, k mnoha občanům se vůbec nedostane._
 
