@@ -4,6 +4,7 @@ tmp/
 
 resources/_gen/images
 public/
+.hugo_build.lock
 
 # Local Netlify folder
 .netlify
