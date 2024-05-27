@@ -21,3 +21,7 @@
 [![Datlab Institut](/sidebar/datlab.png "Datlab Institut")](https://datlabinstitut.cz)
 
 [![STEM](/sidebar/stem.png "STEM")](https://www.stem.cz)
+
+[![Lobbio](/sidebar/lobbio.png "Lobbio")](https://www.lobbio.cz)
+
+[![Wikimedia](/sidebar/wikimedia.png "Wikimedia")](https://www.wikimedia.org)
