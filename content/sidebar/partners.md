@@ -6,8 +6,6 @@
 
 [![České priority](/sidebar/ceske-priority.png "České priority")](https://ceskepriority.cz)
 
-[![Rekonstrukce státu](/sidebar/rekonstrukce-statu.png "Rekonstrukce státu")](https://www.rekonstrukcestatu.cz)
-
 [![Otevřená města](/sidebar/otevrena-mesta.png "Otevřená města")](https://otevrenamesta.cz)
 
 [![Hlídač státu](/sidebar/hlidac-statu.png "Hlídač státu")](https://www.hlidacstatu.cz)
