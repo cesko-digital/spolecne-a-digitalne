@@ -22,4 +22,4 @@
 
 [![Lobbio](/sidebar/lobbio.png "Lobbio")](https://www.lobbio.cz)
 
-[![Wikimedia](/sidebar/wikimedia.png "Wikimedia")](https://www.wikimedia.org)
+[![Wikimedia](/sidebar/wikimedia.png "Wikimedia")](https://wikimedia.cz/)
